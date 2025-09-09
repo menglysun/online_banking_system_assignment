@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/online_banking_system_assignment.iml" filepath="$PROJECT_DIR$/.idea/online_banking_system_assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/online_banking_system_assignment.online_banking_system_assignment.main.iml" filepath="$PROJECT_DIR$/.idea/modules/online_banking_system_assignment.online_banking_system_assignment.main.iml" />
+    </modules>
+  </component>
+</project>
